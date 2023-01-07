@@ -6,7 +6,7 @@
     margin: 0;
     background-size: cover;
     height: 600px;
-    background-image: url(images/banner/banner1.png);
+    background-image: url(images/banner/banner3.png);
     background-repeat: no-repeat;
 }
 .primary-tittle {
@@ -150,8 +150,8 @@ form input {
 }
 .sub-btn {
     padding: 10px 20px;
-    color: orange;
-    background-color: white;
+    color: white;
+    background-color:blue;
     border-radius: 5px;
     height: 64;
     margin-top: 15px;
