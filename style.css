@@ -7,29 +7,21 @@
     background-size: cover;
     height: 600px;
     background-image: url(images/banner/banner1.png);
-    
     background-repeat: no-repeat;
-    
 }
 .primary-tittle {
     text-align: right;
     padding-top: 200px;
     margin-right: 100px;
-    margin-left: 920px;
-    
-    
-    
+    margin-left: 920px; 
 }
 .advisory {
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     font-size: 42px;
-    
-   
 }
 .primary-para {
     font-family: Sans-serif, Arial, Helvetica;
-    
 }
 .contact {
     padding: 10px 20px;
@@ -39,7 +31,6 @@
     height: 64;
     margin-top: 15px;
     border: 0;
-    
 }
 .sec1 {
     display: flex;
@@ -47,12 +38,10 @@
     margin: 100px;
     gap: 60px;
     position: static;
-    
 }
 .middle-para {
     margin-top: 300px;
     margin-right: 80px;
-    
 }
 .failurs {
     margin-bottom: 30px;
@@ -72,8 +61,7 @@ i {
 }
 .sec2 {
     margin: 100px;
-    position: static
-    
+    position: static;
 }
 .plans {
     text-align: center;
@@ -100,12 +88,12 @@ i {
     font-weight: 700;
 }
 .last {
-    margin: 100px;
-}
-.last-image {
-    text-align: center;
-    width: 800px;
-    height: 400px;
+    background-image: url(images/watch.png);
+    width: 80%;
+    height: 200px;
+    background-size: cover;
+    margin-bottom: 200px;
+    margin-left: 150px;
 }
 .end {
     background-color: black;
@@ -113,16 +101,13 @@ i {
     height: 400px;
     color: white;
     position: static;
-
 }
 .end-description {
     margin: 0 150px;
     display: flex;
-
 }
 .end-tittle {
     margin-top: 70px;
-    
 }
 .future {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -161,7 +146,7 @@ form input {
     border-radius: 5px;
     background-color: black;
     color: aliceblue;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 .sub-btn {
     padding: 10px 20px;
